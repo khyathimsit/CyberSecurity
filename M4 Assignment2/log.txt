@@ -1,0 +1,5 @@
+commit=Sign in
+utf8=✓
+authenticity_token=7vqwq6wssj1HyX9R83eCl02U68Wv8ENesPKNtgZ2lRgI+SkNscp52i7+U2Hj/7wSQHMvp0ng/IFSYpMfu7yiag==
+login=Katy
+password=12345
